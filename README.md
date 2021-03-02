@@ -1,2 +1,3 @@
 # Extract-min-max-from-Pascal-XML
 The given script extract the min/max coordinates from Pascal XML file
+You just put the path of folder that keeps the XML files run the script and see the magic!.......
